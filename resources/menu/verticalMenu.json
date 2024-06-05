@@ -1,0 +1,64 @@
+{
+  "menu": [
+    {
+      "name": "Dashboards",
+      "icon": "menu-icon tf-icons mdi mdi-home-outline",
+      "slug": "dashboard",
+      "url": "dashboard"
+    },
+    {
+      "name": "Customer",
+      "icon": "menu-icon tf-icons mdi mdi-window-maximize",
+      "slug": "customer",
+      "url": "dashboard"
+    },
+    {
+      "name": "Roles",
+      "icon": "menu-icon tf-icons mdi mdi-flip-to-front",
+      "slug": "roles",
+      "url": "role"
+    },
+    {
+      "name": "User Privillages",
+      "icon": "menu-icon tf-icons mdi mdi-window-maximize",
+      "slug": "user_privillages",
+      "url": "dashboard"
+    },
+    {
+      "name": "Slider",
+      "icon": "menu-icon tf-icons mdi mdi-home-outline",
+      "slug": "slider",
+      "url": "slider"
+    },
+    {
+      "name": "Category",
+      "icon": "menu-icon tf-icons mdi mdi-table",
+      "slug": "category",
+      "url": "category/index"
+    },
+    {
+      "name": "Products",
+      "icon": "menu-icon tf-icons mdi mdi-home-outline",
+      "slug": "product",
+      "url": "dashboard"
+    },
+    {
+      "name": "Order",
+      "icon": "menu-icon tf-icons mdi mdi-home-outline",
+      "slug": "order",
+      "url": "dashboard"
+    },
+    {
+      "name": "Date wise",
+      "icon": "menu-icon tf-icons mdi mdi-home-outline",
+      "slug": "date_wise",
+      "url": "dashboard"
+    },
+    {
+      "name": "Holidays",
+      "icon": "menu-icon tf-icons mdi mdi-home-outline",
+      "slug": "holidays",
+      "url": "dashboard"
+    }
+  ]
+}
